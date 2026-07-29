@@ -14,7 +14,7 @@ Many organisations know they need to improve their systems or explore AI, but th
 
 Whether it's automating repetitive tasks, using AI to improve customer service, replacing outdated systems, building a new web or mobile application, or moving to the cloud, my goal is to help businesses invest in technology that delivers real business value.
 
-Outside of the Office you'll find me either at a tennis court, discovering the next foodie spot or booking my next trip to Espain. If you like any of these things will get on 
+Outside of the Office 🏢 you'll find me either at a tennis court 🎾, discovering the next foodie spot 🌮 or booking my next trip ✈️ to Espain. 
 
 ## Headings
 
