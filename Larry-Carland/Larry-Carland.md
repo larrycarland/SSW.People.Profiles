@@ -1,18 +1,20 @@
 ---
-id: "456ebf0e-fb42-ea11-967a-00155d012cc0"
+id: "cfbf5bed-4a7e-f111-ab0e-70a8a556a9d9"
 
-qualifications: ""
+qualifications: "SSW Business Development Executive"
 
-quote: "Working together to provide solutions to problems proactively every day, for our clients and internally"
-quoteAuthor: "Anonymous"
+quote: "Continuous improvement is better than delayed perfection"
+quoteAuthor: "Kaizen"
 ---
 
-[Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
+I am a Business Development Executive @ SSW based in Sydney, Australia.
 
-This is an example account to show you what is possible for a profile page. 
-Below you will see everything you need to create an awesome page. 
+I help businesses use technology to work smarter, grow faster, and solve problems that off the shelf software can't.
+Many organisations know they need to improve their systems or explore AI, but they're not sure where to start. I work with business leaders to understand their challenges, then connect them with the right experts at SSW to design and build solutions that make a real difference.
 
-[Mr Bob Northwind is the owner of Northwind Traders Limited](https://www.ssw.com.au/rules/use-generic-consistent-names-on-examples). He is the toughest Product Owner we have ever come across :) He was the main star at the FireBootcamp.
+Whether it's automating repetitive tasks, using AI to improve customer service, replacing outdated systems, building a new web or mobile application, or moving to the cloud, my goal is to help businesses invest in technology that delivers real business value.
+
+Outside of the Office you'll find me either at a tennis court, discovering the next foodie spot or booking my next trip to Espain. If you like any of these things will get on 
 
 ## Headings
 
